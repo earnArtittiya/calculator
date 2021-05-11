@@ -96,8 +96,7 @@ export default function Calculator() {
         </Box>
         <br></br>
         <Box>
-        {numberInput1} {operatorText[operator] }{numberInput2} ={" "}
-        {result}
+        {numberInput1} {operatorText[operator] }{numberInput2} ={result}
         </Box>
         
 
